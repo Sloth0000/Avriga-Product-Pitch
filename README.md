@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Avriga: Transform Your Dreams into Reality
 
 Welcome to **Avriga** — an innovative platform that turns your personal growth journey into an immersive, AI-powered adventure. This project was created for the World's Largest Hackathon 2025 and is powered by the Bolt.new no-code platform.
@@ -28,3 +29,6 @@ Avriga invites users to step into a world shaped by their own imagination, combi
 ---
 
 Feel free to star ⭐ this repo if you like the idea, and share your feedback or contributions! 
+=======
+# Avriga-Product-Pitch
+>>>>>>> e7753f1fb227a7cf3ad3e9100092321c49af4803
