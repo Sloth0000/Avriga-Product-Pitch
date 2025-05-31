@@ -20,7 +20,7 @@ Avriga invites users to step into a world shaped by their own imagination, combi
 - **Community-Driven:** Social features foster accountability and connection.
 - **Ethical Design:** Positive reinforcement and stress-free revival options support mental wellness.
 
-## 🌐 Live Demo
+## 🌐 Live Product pitch website
 
 Check out the deployed website here: [https://sloth0000.github.io/Avriga-Product-Pitch/](https://sloth0000.github.io/Avriga-Product-Pitch/)
 
